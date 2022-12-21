@@ -1,1 +1,1 @@
-# .github
+A collection of all my code for CPEN 221 at UBC ([@Eric-Ptn](https://github.com/Eric-Ptn)). It was the 2nd programming course I took and it touched a ton of different programming fundamentals, like basic datatypes & algorithms, specs & testing, mutability/immutability, multithreading, etc. Also everything is in Java. ✨✨
